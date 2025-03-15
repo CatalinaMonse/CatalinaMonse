@@ -1,5 +1,5 @@
 ## Hi! I'm Catalina Ojeda ♡
-
+Analista de datos | Data Analyst
 <!--
 **CatalinaMonse/CatalinaMonse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
