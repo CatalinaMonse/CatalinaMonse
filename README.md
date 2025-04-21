@@ -1,9 +1,12 @@
 ## Hi! I'm Catalina Ojeda ♡
 Analista de datos | Data Analyst
+
+![Image](https://github.com/user-attachments/assets/1774fd90-a3ca-4cfc-9cdb-ad0f7ba7895a)
+
 <!--
 **CatalinaMonse/CatalinaMonse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![Image](https://github.com/user-attachments/assets/1774fd90-a3ca-4cfc-9cdb-ad0f7ba7895a)
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
