@@ -17,7 +17,7 @@ Through sociology, I found my love for data analysis, but I’m interested in ma
 --------------------------------------------------------
 Contacto | Contact  
 - [LinkedIn](www.linkedin.com/in/catalina-ojeda-ortega)   
-- ✉️ Email: ojedaocatalina@gmail.com
+- ojedaocatalina@gmail.com
 <!--
 **CatalinaMonse/CatalinaMonse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
