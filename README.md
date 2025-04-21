@@ -1,11 +1,13 @@
-## Hi! I'm Catalina Ojeda ♡
-Analista de datos | Data Analyst
 
-![Image](https://github.com/user-attachments/assets/1774fd90-a3ca-4cfc-9cdb-ad0f7ba7895a)
+<h1 <div align="center"> Hi! I'm Catalina Ojeda ♡</h1>
+<h3 align="center"> Socióloga reconvertida en Analista de Datos | Sociologist turned Data Analyst </h3>
+
+<!--
+<img align="right" alt=  width="400" height="280" />
+
 
 <!--
 **CatalinaMonse/CatalinaMonse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 
 
 - 🔭 I’m currently working on ...
